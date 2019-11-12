@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "876216583435",
+    "firebase_url": "https://recognizetext-f2a5d.firebaseio.com",
+    "project_id": "recognizetext-f2a5d",
+    "storage_bucket": "recognizetext-f2a5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876216583435:android:fe4f836ce45c4a85fe0e0e",
+        "android_client_info": {
+          "package_name": "com.recognizetext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876216583435-vj5bkgc5q80jmr3phgjvrk5qhkuv80lu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recognizetext",
+            "certificate_hash": "abbfd9feac928e212b83cae74349bdb10c2bcd04"
+          }
+        },
+        {
+          "client_id": "876216583435-2lpodao81k07h7sigoab8jfh7ab0srm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLvGT52UZzGYdLag4X54T2-fHyHBKYAqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876216583435-2lpodao81k07h7sigoab8jfh7ab0srm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
